@@ -1,15 +1,13 @@
 # Hi, I AM REHAAN.
 <a href="https://www.linkedin.com/in/rehaan-john-0a6402295/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am an M.Sc. Physics Postgraduate with a profound interest in Cybersecurity, Technology and continuous learning.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+Through my academic journey in Physics, I developed a strong passion for Cybersecurity and Technology, which inspired me to pursue a career transition into the Cybersecurity field with the goal of building a career as a Cybersecurity Professional.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
