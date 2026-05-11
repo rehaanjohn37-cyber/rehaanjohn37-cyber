@@ -41,4 +41,4 @@ Through my academic journey in Physics, I developed a strong passion for Cyberse
 </div>
 
 ## My Cybersecurity Projects
-- [Log Analyzer](https://github.com/rehaanjohn37-cyber/The_Log_Analyzer)
+- [The Log Analyzer](https://github.com/rehaanjohn37-cyber/The_Log_Analyzer)
