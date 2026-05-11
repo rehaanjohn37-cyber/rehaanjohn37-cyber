@@ -12,7 +12,7 @@ Through my academic journey in Physics, I developed a strong passion for Cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Python         | <a href="https://github.com/rehaanjohn37-cyber/The_Log_Analyzer">Log Analyzer</a>|
+| Security Automation with Python         | <a href="https://github.com/rehaanjohn37-cyber/The_Log_Analyzer">The Log Analyzer</a>|
 
 
 ## Tools
